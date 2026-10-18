@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bojan
+ *
+ */
+module RPGSimulator {
+}
